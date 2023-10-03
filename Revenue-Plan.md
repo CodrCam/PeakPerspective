@@ -11,11 +11,10 @@
 2. **Production Costs**:
    - Location Permissions (if applicable): $200/episode
    - Transportation & Logistics: $300/episode
-   - Miscellaneous (snacks, emergency kits, etc.): $100/episode
+   - Miscellaneous (snacks, etc.): $100/episode (sponosr)
 
 3. **Editing Software & Services**:
-   - Video Editing Software Subscription (e.g., Adobe Premiere Pro): $240/year
-   - Sound Editing Software (e.g., Audacity): Free
+   - Editing Software Subscription (Adobe Premiere Pro): $240/year
 
 4. **Marketing & Promotion**:
    - Social Media Ads: $500/year
