@@ -78,3 +78,5 @@
 - Hydration Pack/Bottles
 
 Remember to check each equipment item before every excursion to ensure they're in good working condition. Proper maintenance and storage between uses can also extend the lifespan and reliability of the gear.
+
+[Back To Main Page](/README.md)

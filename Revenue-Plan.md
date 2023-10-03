@@ -69,4 +69,5 @@
 - Regularly review the budget and adjust as necessary based on actual expenses and revenues.
 - As the show grows and secures consistent revenues, consider hiring an accountant or financial consultant for more detailed financial planning and management.
 - - -
-#production
+
+[Back To Main Page](/README.md)
