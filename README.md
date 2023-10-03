@@ -2,23 +2,22 @@
 
 ## Production Links
 
-1. [Peak Perspective Production Process: Month-long Timeline](/Peak%20Perspective%20Production%20Process%20Month-long%20Timeline.md)
-2. [Peak Perspective Guest Protocol Document](/Peak%20Perspective%20Guest%20Protocol%20Document.md)
-3. [Peak Perspective Team Breakdown](/Peak%20Perspective%20Team%20Breakdown.md)
-4. [Peak Perspective Episode Guide\/Script Template](/Peak%20Perspective%20Episode%20GuideScript%20Template.md)
+1. [Process Timeline](/Timeline.md)
+2. [Guest Protocol](/Guest-Protocol.md)
+3. [Team Breakdown](/Team-Breakdown.md)
+4. [Guide for Script Template](/Script-Template.md)
 5. [Peak Perspective: Location Assessment](/Peak%20Perspective%20Location%20Assessment.md)
-6. [Peak Perspective: Equipment Checklist](/Peak%20Perspective%20Equipment%20Checklist.md)
-7. [Backup Plan for "Peak Perspective": Physical Drives and Adobe Cloud Services](/Backup%20Plan%20for%20"Peak%20Perspective"%20Physical%20Drives%20and%20Adobe%20Cloud%20Services.md)
-8. [Growth Strategy tailored for "Peak Perspective with Cameron":](/Growth%20Strategy%20tailored%20for%20"Peak%20Perspective%20with%20Cameron".md)
-9. [Audience Engagement Plan: Social Interaction & Social Media Focus](/Audience%20Engagement%20Plan%20Social%20Interaction%20&%20Social%20Media%20Focus.md)
-10. ["Peak Perspective with Cameron" - Bootstrap Business Budget & Revenue Sharing Plan](/"Peak%20Perspective%20with%20Cameron"%20-%20Bootstrap%20Business%20Budget%20&%20Revenue%20Sharing%20Plan.md)
-11. ["Peak Perspective with Cameron" - Legal & Regulatory Compliance Overview](/"Peak%20Perspective%20with%20Cameron"%20-%20Legal%20&%20Regulatory%20Compliance%20Overview.md)
-12. ["Peak Perspective with Cameron" - Feedback & Review Process](/"Peak%20Perspective%20with%20Cameron"%20-%20Feedback%20&%20Review%20Process.md)
-13. [Peak Perspective Branding Strategy & Policy](/Peak%20Perspective%20Branding%20Strategy%20&%20Policy.md)
-14. ["Peak Perspective" Yearly Plan](/"Peak%20Perspective"%20Yearly%20Plan.md)
-15. ["Peak Perspective" Public Relations (PR) Plan](/"Peak%20Perspective"%20Public%20Relations%20(PR)%20Plan.md)
+6. [Equipment Checklist](/Equipment-Checklist.md)
+7. [Backup Plan for Physical Drives and Adobe Cloud Services](/Backup-Plans.md)
+8. [Growth Strategy](/Growth-Strategymd)
+9. [Audience Engagement](/Audience-Engagement.md)
+10. [Budget & Revenue Sharing Plan](/Revenue-Plan.md)
+11. [Legal & Regulatory](/Legal.md)
+12. [Feedback & Review](/Review-Process.mdd)
+13. [Branding Strategy & Policy](/Branding-Strategy.md)
+14. [Yearly Plan](/Yearly-Plan.md)
+15. [Public Relation](/Public-Relations.md)
 
-- - ----
 Welcome, fellow wanderers. Cameron here, bringing you "Peak Perspective" – where studio comfort meets raw alpine adrenaline. Our conversations? They're not on couches. They're on icy ski trails and treacherous cliff faces. From winter's fierce embrace to summer's golden glow, we tackle nature and narratives head-on.
 
 Forget scripts. This is about raw tales, real struggles, and reveling in the messy beauty of life. If pristine studios are your jam, this might not be for you. But if genuine stories, a dash of risk, and spectacular vistas call your name – you've found your tribe with "Peak Perspective."
