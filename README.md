@@ -1,4 +1,4 @@
-# Peak Perspective with Cameron: Alpine Grit and Gab
+# Peak Perspective with Cam
 
 ## Production Links
 
@@ -9,7 +9,7 @@
 5. [Peak Perspective: Location Assessment](/Peak%20Perspective%20Location%20Assessment.md)
 6. [Equipment Checklist](/Equipment-Checklist.md)
 7. [Backup Plan for Physical Drives and Adobe Cloud Services](/Backup-Plans.md)
-8. [Growth Strategy](/Growth-Strategymd)
+8. [Growth Strategy](/Growth-Strategy.md)
 9. [Audience Engagement](/Audience-Engagement.md)
 10. [Budget & Revenue Sharing Plan](/Revenue-Plan.md)
 11. [Legal & Regulatory](/Legal.md)
