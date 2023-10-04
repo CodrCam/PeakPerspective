@@ -65,3 +65,4 @@ Capture genuine, raw conversations set against the challenging backdrops of the 
 Remember, a brand is not just about aesthetics; it's the sum of all interactions and experiences associated with the show. Keeping the branding consistent and in line with the mission statement will ensure that the audience has a clear understanding and connection with "Peak Perspective."
 
 [Back To Main Page](/README.md)
+[MHG Plan](/MHG-Peak-Collab.md)
