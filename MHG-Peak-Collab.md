@@ -1,5 +1,7 @@
 **Integrated Business Model for "Peak Perspective" & High Mountain Gear (HMG)**
 
+[Back To Main Page](/README.md)
+
 *Position*: Marketing Manager & Content Creator
 
 *Rate*: $50/hr
@@ -74,6 +76,4 @@
   
 - **Behind the Gear**: A segment that delves into the making of HMG products. Discuss the challenges, like the intricate process of creating The Taco on a small machine, as mentioned in the example post.
 
----
-
-This integrated approach will not only champion HMG's innovative products but also organically intertwine their brand story with your show's narrative, creating a holistic marketing strategy that benefits both parties.
+[Back To Main Page](/README.md)
